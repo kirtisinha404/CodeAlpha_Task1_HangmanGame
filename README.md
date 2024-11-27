@@ -1,4 +1,4 @@
-# CodeAlpha_Project1_HangmanGame
+HangmanGame
 
 Hangman Game is a classic game developed in Python.
 Rules of the game are as following:
